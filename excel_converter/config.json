@@ -1,0 +1,6 @@
+{
+  "input": "TC_MT4_RebApl_Regression_Test_Result_03.07.2024_10.27.51_F.xlsx",
+  "output_xml": "results.xml",
+  "output_json": "results.json",
+  "header_rows": 8
+}
